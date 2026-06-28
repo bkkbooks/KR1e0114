@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1e0114/WYG/v1/juan/12
+seq: 12
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1e0114_WYG_012-1a, image: WYG0179/WYG0179-0398a.png}
+body:
+  text: 春秋大事表卷十二下國子監司業顧棟髙撰宋孔氏靈氏駟氏豐氏孔氏春秋大事表卷十二下
+  hash: sha256:82ceb22e9b56962e36832a4010a06a8a860b06372246b51e8268565787ab247c
+metadata:
+  title: 春秋大事表
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:17:35.717623'
+  source:
+    repository: kanripo
+    path: KR1e0114/KR1e0114_012.txt
+hash: sha256:ae991b7d7a93aaf9921edbcc0ea412de299ca15034092fdeb08f832fd3c16beb

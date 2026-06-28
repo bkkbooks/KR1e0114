@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1e0114/WYG/v1/juan/30
+seq: 30
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1e0114_WYG_030-1a, image: WYG0180/WYG0180-0001a.png}
+body:
+  text: 春秋大事表卷三十國子監司業顧棟高撰齊晉争盟表案昭十二年晉侯以齊侯晏投壺齊侯舉矢曰有酒如澠有肉如陵寡人中此與君代興是時景公窺晉之衰巳有互相争長之志屬當平邱之㑹晉已不復能宗諸侯楚新斃于吳無復北方之志而吳亦未遽争衡于中國齊得于此時收召列辟得鄭得衛得魯復得宋夫以齊之强承桓公之餘烈又當晉楚俱衰之後因利乘便使能正魯意如之罪反昭公而君之伸大義于天下此如順風而呼何遽不能代晉主盟哉乃鄟陵之盟信子猶之讒卒佚天討且于晉則助臣以叛君于衛則助子以拒父三綱既絶猶欲軋晉而求諸侯是却行而求前也卒之内不能正其家溺意嬖寵耽樂忘禍廢長立少輕棄國本權臣乘間得行簒弑數年之間遂移陳氏與晉争彊卒與晉同斃嗚呼亦可悲矣孔子告景公曰君君臣臣父父子子所以起膏肓而拯廢痼者豈不深切著明也哉故自鄟陵之㑹訖于景公之殁争伯凡二十八年撮略其𫝊著于篇輯春秋齊晉争盟表第三十春秋大事表卷三十
+  hash: sha256:76c83466ce096914c41a049d5e18bbc867c0ec3f7268ef9167ce1ed6a00f3467
+metadata:
+  title: 春秋大事表
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:17:35.717623'
+  source:
+    repository: kanripo
+    path: KR1e0114/KR1e0114_030.txt
+hash: sha256:ba61b2634d46d7da7d5d4f9cacb6d1bb559541c0487c5a52fd2c46b0ccdfbb17
