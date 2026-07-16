@@ -655,6 +655,7 @@ markers:
       ', id: KR1e0114_krp_033-bkkkrnewl142}
   - {type: line-break, offset: 2008, content: '', id: KR1e0114_WYG_033-16a06}
   - {type: punctuation, offset: 2014, content: (, id: KR1e0114_krp_033-bkkpn1}
+  - {type: voice, offset: 2014, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 2017, content: /, id: KR1e0114_krp_033-bkkpn2}
   - {type: punctuation, offset: 2019, content: ), id: KR1e0114_krp_033-bkkpn3}
   - {type: substitution, offset: 2021, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
@@ -665,6 +666,7 @@ markers:
   - {type: line-break, offset: 2031, content: '', id: KR1e0114_WYG_033-16a07}
   - {type: substitution, offset: 2031, original: 従, replacement: 從, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20675}}
   - {type: punctuation, offset: 2034, content: (, id: KR1e0114_krp_033-bkkpn4}
+  - {type: voice, offset: 2034, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2036, content: /, id: KR1e0114_krp_033-bkkpn5}
   - {type: punctuation, offset: 2037, content: ), id: KR1e0114_krp_033-bkkpn6}
   - {type: variant, offset: 2037, length: 1, content: 歷, WYG: 􅊗}
@@ -689,6 +691,7 @@ markers:
       ', id: KR1e0114_krp_033-bkkkrnewl147}
   - {type: line-break, offset: 2095, content: '', id: KR1e0114_WYG_033-16b02}
   - {type: punctuation, offset: 2095, content: (, id: KR1e0114_krp_033-bkkpn7}
+  - {type: voice, offset: 2095, length: 16, name: note, id: n3}
   - {type: punctuation, offset: 2103, content: /, id: KR1e0114_krp_033-bkkpn8}
   - {type: punctuation, offset: 2111, content: ), id: KR1e0114_krp_033-bkkpn9}
   - {type: substitution, offset: 2112, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
@@ -807,4 +810,4 @@ markers:
 
       ', id: KR1e0114_krp_033-bkkkrnewl172}
   back: []
-hash: sha256:b4f9e18282e05bb9c6f0d54a55fb391ca6b743dd6251ba8f0c316443cd78746a
+hash: sha256:792daa5313b9394bc1f85445f25623956ce2102a5de0dc85fd886b35bc0078ca
